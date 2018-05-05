@@ -3,23 +3,23 @@
 _calendar_obj calendar;
 #define DS3231_WriteAddress 0xD0   
 #define DS3231_ReadAddress  0xD1
-//´ÖÑÓÊ±º¯Êý£¬Î¢
+//ç²—å»¶æ—¶å‡½æ•°
 void delay_us(unsigned int time)
 {    
    unsigned int i=0;  
    while(time--)
    {
-      i=20;  //×Ô¼º¶¨Òå
+      i=20;  //è‡ªå·±å®šä¹‰
       while(i--) ;    
    }
 }
-//ºÁÃë¼¶µÄÑÓÊ±
+//æ¯«ç§’çº§çš„å»¶æ—¶
 void delay_ms(unsigned int time)
 {    
    unsigned int i=0;  
    while(time--)
    {
-      i=12000;  //×Ô¼º¶¨Òå
+      i=12000;  //è‡ªå·±å®šä¹‰
       while(i--) ;    
    }
 }
