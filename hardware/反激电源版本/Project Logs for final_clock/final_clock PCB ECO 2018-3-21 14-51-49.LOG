@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=USB2-1
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Pin From Net: NetName=GND Pin=USB2-5
+Removed Member From Class: ClassName=final_clock Member=USB2

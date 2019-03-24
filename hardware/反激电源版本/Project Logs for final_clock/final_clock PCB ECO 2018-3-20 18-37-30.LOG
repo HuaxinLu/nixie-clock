@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=HVCLK Pin=R18-7
+Removed Pin From Net: NetName=HVLE Pin=R18-8
+Added Pin To Net: NetName=HVLE Pin=R18-7
+Added Pin To Net: NetName=HVCLK Pin=R18-8

@@ -1,0 +1,9 @@
+Added Component: Designator=R0(R 0603)
+Added Pin To Net: NetName=5V Pin=R0-1
+Added Pin To Net: NetName=GND Pin=R0-2
+Added Net: Name=GND
+Added Member To Class: ClassName=cover Member=Component DS1 Lamp Neon
+Added Member To Class: ClassName=cover Member=Component DS2 Lamp Neon
+Added Member To Class: ClassName=cover Member=Component DS3 Lamp Neon
+Added Member To Class: ClassName=cover Member=Component DS4 Lamp Neon
+Added Member To Class: ClassName=cover Member=Component R0 Res2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SDA Pin=IC1-5
+Removed Pin From Net: NetName=SDA Pin=R52-2
+Removed Pin From Net: NetName=SDA Pin=U3-45
+Removed Pin From Net: NetName=SDA Pin=U11-15
+Added Pin To Net: NetName=SDA Pin=U3-20
+Change Net Name : Old Net Name=SDA New Net Name=GND
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=SDA Pin=R52-2
+Added Pin To Net: NetName=SDA Pin=U3-45
+Added Pin To Net: NetName=SDA Pin=U11-15
+Added Net: Name=SDA

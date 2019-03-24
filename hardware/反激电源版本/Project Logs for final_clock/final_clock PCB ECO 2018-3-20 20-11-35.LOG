@@ -1,0 +1,10 @@
+Added Component: Designator=Q10(SOT23-3L)
+Added Component: Designator=R54(R 0805)
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=NetC5_2 Pin=Q10-3
+Added Pin To Net: NetName=CTL Pin=R54-2
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R54-1
+Added Net: Name=NetQ10_1
+Added Member To Class: ClassName=final_clock Member=Component Q10 SS8050
+Added Member To Class: ClassName=final_clock Member=Component R54 Res2

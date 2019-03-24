@@ -1,0 +1,98 @@
+Added Pin To Net: NetName=5V Pin=R0-1
+Added Pin To Net: NetName=5V Pin=R24-2
+Added Pin To Net: NetName=5V Pin=R25-2
+Added Pin To Net: NetName=5V Pin=R26-2
+Added Pin To Net: NetName=5V Pin=R27-2
+Added Pin To Net: NetName=5V Pin=R28-2
+Added Pin To Net: NetName=5V Pin=R29-2
+Added Pin To Net: NetName=5V Pin=R31-2
+Added Pin To Net: NetName=5V Pin=R32-2
+Added Pin To Net: NetName=5V Pin=R33-2
+Added Pin To Net: NetName=5V Pin=R35-2
+Added Pin To Net: NetName=5V Pin=R40-2
+Added Pin To Net: NetName=5V Pin=R41-2
+Added Pin To Net: NetName=5V Pin=R45-2
+Added Pin To Net: NetName=5V Pin=R46-2
+Added Pin To Net: NetName=5V Pin=R47-2
+Added Pin To Net: NetName=5V Pin=R48-2
+Added Pin To Net: NetName=5V Pin=R49-2
+Added Pin To Net: NetName=5V Pin=R50-2
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=R0-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_B Pin=LED1-3
+Added Pin To Net: NetName=LED_B Pin=LED2-3
+Added Pin To Net: NetName=LED_B Pin=LED3-3
+Added Pin To Net: NetName=LED_B Pin=LED4-3
+Added Pin To Net: NetName=LED_B Pin=LED5-3
+Added Pin To Net: NetName=LED_B Pin=LED6-3
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_G Pin=LED1-4
+Added Pin To Net: NetName=LED_G Pin=LED2-4
+Added Pin To Net: NetName=LED_G Pin=LED3-4
+Added Pin To Net: NetName=LED_G Pin=LED4-4
+Added Pin To Net: NetName=LED_G Pin=LED5-4
+Added Pin To Net: NetName=LED_G Pin=LED6-4
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_R Pin=LED1-5
+Added Pin To Net: NetName=LED_R Pin=LED2-5
+Added Pin To Net: NetName=LED_R Pin=LED3-5
+Added Pin To Net: NetName=LED_R Pin=LED4-5
+Added Pin To Net: NetName=LED_R Pin=LED5-5
+Added Pin To Net: NetName=LED_R Pin=LED6-5
+Added Net: Name=LED_R
+Added Pin To Net: NetName=NetLED1_0 Pin=LED1-0
+Added Pin To Net: NetName=NetLED1_0 Pin=R24-1
+Added Net: Name=NetLED1_0
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R26-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R28-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_0 Pin=LED2-0
+Added Pin To Net: NetName=NetLED2_0 Pin=R25-1
+Added Net: Name=NetLED2_0
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R27-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R29-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_0 Pin=LED3-0
+Added Pin To Net: NetName=NetLED3_0 Pin=R31-1
+Added Net: Name=NetLED3_0
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R33-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R40-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_0 Pin=LED4-0
+Added Pin To Net: NetName=NetLED4_0 Pin=R32-1
+Added Net: Name=NetLED4_0
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R35-1
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R41-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_0 Pin=LED5-0
+Added Pin To Net: NetName=NetLED5_0 Pin=R45-1
+Added Net: Name=NetLED5_0
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R46-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R47-1
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_0 Pin=LED6-0
+Added Pin To Net: NetName=NetLED6_0 Pin=R48-1
+Added Net: Name=NetLED6_0
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R49-1
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R50-1
+Added Net: Name=NetLED6_2
+Added Class: Name=cover

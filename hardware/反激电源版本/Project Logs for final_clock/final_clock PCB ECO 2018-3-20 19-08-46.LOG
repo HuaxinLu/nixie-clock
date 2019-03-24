@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=Header 4 New DesignItemId=Header 5
+Change Component Footprint: Designator=JP1 Old Footprint=HDR-1X4 New Footprint=HDR-1X5
+Change Component Comment : Designator=JP1 Old Comment=HDR-1X4 New Comment=HDR-1X5
+Added Pin To Net: NetName=GND Pin=JP1-5

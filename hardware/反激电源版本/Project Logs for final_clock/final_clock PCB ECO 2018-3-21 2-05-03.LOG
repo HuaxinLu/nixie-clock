@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ISP_TX Pin=JP1-1
+Removed Pin From Net: NetName=ISP_RX Pin=JP1-2
+Removed Pin From Net: NetName=SWDAT Pin=JP1-3
+Removed Pin From Net: NetName=SWCLK Pin=JP1-4
+Removed Pin From Net: NetName=GND Pin=JP1-5
+Removed Pin From Net: NetName=NetQ1_5 Pin=Q1-
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=ISP_TX Pin=JP1-2
+Added Pin To Net: NetName=ISP_RX Pin=JP1-3
+Added Pin To Net: NetName=SWDAT Pin=JP1-4
+Added Pin To Net: NetName=SWCLK Pin=JP1-5

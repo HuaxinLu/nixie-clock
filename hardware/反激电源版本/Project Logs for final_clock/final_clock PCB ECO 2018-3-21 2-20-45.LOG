@@ -1,0 +1,8 @@
+Added Component: Designator=USB2(USB-MICRO_A)
+Added Pin To Net: NetName=5V Pin=USB2-1
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Member To Class: ClassName=final_clock Member=Component USB2 USB-5P

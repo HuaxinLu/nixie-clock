@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=U2-1
+Added Component: Designator=R53(R 0805)
+Added Pin To Net: NetName=NetC6_1 Pin=R53-2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U2-1
+Added Net: Name=NetR53_1
+Added Member To Class: ClassName=final_clock Member=Component R53 Res2

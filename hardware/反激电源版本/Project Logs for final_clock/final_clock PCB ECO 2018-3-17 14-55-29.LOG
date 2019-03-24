@@ -1,0 +1,5 @@
+Added Component: Designator=C15(C 0805)
+Added Pin To Net: NetName=NetR5_2 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetC15_1
+Added Member To Class: ClassName=final_clock Member=Component C15 NC

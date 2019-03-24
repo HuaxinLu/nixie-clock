@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\科研资料\辉光钟资料\最终版本\final_clock.PcbDoc
+Date         : 2018/3/21
+Time         : 23:42:11
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 296
+    Connections routed, 296
+    Connections remaining, 0
+count : 4

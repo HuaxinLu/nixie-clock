@@ -1,0 +1,8 @@
+Added Component: Designator=M1(VK18U7)
+Added Pin To Net: NetName=SDA Pin=M1-1
+Added Pin To Net: NetName=SDA Pin=M1-2
+Added Pin To Net: NetName=SDA Pin=M1-3
+Added Pin To Net: NetName=TX0 Pin=M1-4
+Added Pin To Net: NetName=RX0 Pin=M1-5
+Added Pin To Net: NetName=3.3V Pin=M1-6
+Added Member To Class: ClassName=final_clock Member=Component M1 VK18U7

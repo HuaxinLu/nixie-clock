@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=Q9-3
+Removed Pin From Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=3.3V Pin=R37-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetQ9_3 Pin=R37-1
+Added Net: Name=NetQ9_3

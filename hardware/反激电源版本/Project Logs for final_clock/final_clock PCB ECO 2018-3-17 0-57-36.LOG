@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=SDA Pin=RP1-3
+Added Component: Designator=C1(C 1812)
+Added Component: Designator=C3(C 1812)
+Added Component: Designator=C4(C 1812)
+Added Component: Designator=R4(0805R)
+Added Component: Designator=R5(0805R)
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R7(R 1206)
+Added Component: Designator=R8(0805R)
+Added Component: Designator=R9(0805R)
+Added Component: Designator=R50(0805R)
+Added Pin To Net: NetName=SDA Pin=C1-1
+Added Pin To Net: NetName=HV Pin=C1-2
+Added Pin To Net: NetName=SDA Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=SDA Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=SDA Pin=R4-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R4-2
+Added Pin To Net: NetName=HV Pin=R5-1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R6-2
+Added Pin To Net: NetName=SDA Pin=R7-1
+Added Pin To Net: NetName=NetC6_1 Pin=R7-2
+Added Pin To Net: NetName=NetC5_1 Pin=R8-1
+Added Pin To Net: NetName=SDA Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=SDA Pin=R9-2
+Added Pin To Net: NetName=SDA Pin=R50-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=RP1-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=RP1-3
+Added Net: Name=NetR50_1
+Added Member To Class: ClassName=final_clock Member=Component C1 220NZ/250V
+Added Member To Class: ClassName=final_clock Member=Component C3 10uF
+Added Member To Class: ClassName=final_clock Member=Component C4 10uF
+Added Member To Class: ClassName=final_clock Member=Component R4 Res2
+Added Member To Class: ClassName=final_clock Member=Component R5 Res2
+Added Member To Class: ClassName=final_clock Member=Component R6 Res2
+Added Member To Class: ClassName=final_clock Member=Component R7 0.02
+Added Member To Class: ClassName=final_clock Member=Component R8 Res2
+Added Member To Class: ClassName=final_clock Member=Component R9 Res2
+Added Member To Class: ClassName=final_clock Member=Component R50 Res2

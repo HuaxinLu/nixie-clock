@@ -1,0 +1,34 @@
+Added Component: Designator=C14(C 0805)
+Added Component: Designator=CR1(CR1220_A)
+Added Component: Designator=R51(R 0805)
+Added Component: Designator=R52(R 0805)
+Added Component: Designator=U11(SOP16W_M)
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=SDA Pin=C14-2
+Added Pin To Net: NetName=SDA Pin=CR1-2
+Added Pin To Net: NetName=3.3V Pin=R51-1
+Added Pin To Net: NetName=SCL Pin=R51-2
+Added Pin To Net: NetName=3.3V Pin=R52-1
+Added Pin To Net: NetName=SDA Pin=R52-2
+Added Pin To Net: NetName=3.3V Pin=U11-2
+Added Pin To Net: NetName=INT Pin=U11-3
+Added Pin To Net: NetName=3.3V Pin=U11-4
+Added Pin To Net: NetName=SDA Pin=U11-5
+Added Pin To Net: NetName=SDA Pin=U11-6
+Added Pin To Net: NetName=SDA Pin=U11-7
+Added Pin To Net: NetName=SDA Pin=U11-8
+Added Pin To Net: NetName=SDA Pin=U11-9
+Added Pin To Net: NetName=SDA Pin=U11-10
+Added Pin To Net: NetName=SDA Pin=U11-11
+Added Pin To Net: NetName=SDA Pin=U11-12
+Added Pin To Net: NetName=SDA Pin=U11-13
+Added Pin To Net: NetName=SDA Pin=U11-15
+Added Pin To Net: NetName=SCL Pin=U11-16
+Added Pin To Net: NetName=NetCR1_1 Pin=CR1-1
+Added Pin To Net: NetName=NetCR1_1 Pin=U11-14
+Added Net: Name=NetCR1_1
+Added Member To Class: ClassName=final_clock Member=Component C14 Cap
+Added Member To Class: ClassName=final_clock Member=Component CR1 1220
+Added Member To Class: ClassName=final_clock Member=Component R51 Res2
+Added Member To Class: ClassName=final_clock Member=Component R52 Res2
+Added Member To Class: ClassName=final_clock Member=Component U11 DS3231
